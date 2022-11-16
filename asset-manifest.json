@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Satellite-Website/static/css/main.2a5e8496.css",
+    "main.js": "/Satellite-Website/static/js/main.4bb84a64.js",
+    "static/media/sample.mp4": "/Satellite-Website/static/media/sample.046000a8b384e1e724dd.mp4",
+    "static/media/logo.png": "/Satellite-Website/static/media/logo.7de22794aaaf23a828d7.png",
+    "static/media/bg-img5.svg": "/Satellite-Website/static/media/bg-img5.b633814fa1ffe2c19fa3.svg",
+    "static/media/100.jpg": "/Satellite-Website/static/media/100.a7241f007ea733cd56d5.jpg",
+    "static/media/98.jpg": "/Satellite-Website/static/media/98.59568faceff68b77c74a.jpg",
+    "static/media/cube.png": "/Satellite-Website/static/media/cube.febd35a48174aee6423e.png",
+    "static/media/Har.jpg": "/Satellite-Website/static/media/Har.85a4f4eaa2543cddf2bf.jpg",
+    "static/media/kar.jpg": "/Satellite-Website/static/media/kar.72da4c348e244b473eb5.jpg",
+    "static/media/97.jpg": "/Satellite-Website/static/media/97.2d704ba27f017b1e2558.jpg",
+    "static/media/man.jpeg": "/Satellite-Website/static/media/man.5279bc570051a94c5723.jpeg",
+    "static/media/roh.jpg": "/Satellite-Website/static/media/roh.b3c88db882acab728b1e.jpg",
+    "static/media/mansi.jpeg": "/Satellite-Website/static/media/mansi.bf0b41ee922b4cde309e.jpeg",
+    "static/media/up.jpg": "/Satellite-Website/static/media/up.22dff42bf6ecbf154fa4.jpg",
+    "static/media/shub.jpg": "/Satellite-Website/static/media/shub.1ba9e14cbae687a23f8a.jpg",
+    "static/media/about.svg": "/Satellite-Website/static/media/about.0212844f37dd0c9e5b2126e6f3e3aee4.svg",
+    "static/media/vin.jpg": "/Satellite-Website/static/media/vin.c7313642567a157e65df.jpg",
+    "static/media/Adi.jpg": "/Satellite-Website/static/media/Adi.c11f5c6a68880a8225dc.jpg",
+    "static/media/tus.jpeg": "/Satellite-Website/static/media/tus.bf49b4468a57e493847a.jpeg",
+    "static/media/mal.jpeg": "/Satellite-Website/static/media/mal.e2ce440a004faa577f8d.jpeg",
+    "static/media/par.jpeg": "/Satellite-Website/static/media/par.d0c0004ac0779c8f1fb0.jpeg",
+    "static/media/Prem.jpg": "/Satellite-Website/static/media/Prem.11a093036e8b9db47d36.jpg",
+    "static/media/Rohan.jpg": "/Satellite-Website/static/media/Rohan.7de2c1b404c0699aa9c1.jpg",
+    "static/media/nir.jpeg": "/Satellite-Website/static/media/nir.64744a8b64d977d998f2.jpeg",
+    "index.html": "/Satellite-Website/index.html",
+    "main.2a5e8496.css.map": "/Satellite-Website/static/css/main.2a5e8496.css.map",
+    "main.4bb84a64.js.map": "/Satellite-Website/static/js/main.4bb84a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5e8496.css",
+    "static/js/main.4bb84a64.js"
+  ]
+}
