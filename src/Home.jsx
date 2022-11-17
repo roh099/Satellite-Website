@@ -15,7 +15,7 @@ const Home = () => {
             <section className="home">
                 <div className="container pt-5 pb-5">
                     <div className="row  d-flex align-items-center">
-                        <div className="col-md-6 pe-5">
+                        <div className="col-sm-12 col-md-6 pe-5">
                             <h2> Sky is no longer limit for our pride </h2>
                             <div class="glassmorphic-card">
                                 <div class="contentBox">
@@ -25,7 +25,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className="col-md-6">
+                        <div className=" col-sm-12 col-md-6">
                             <Tilt options={{ scale: 3 }} id="card">
                                 <section class="container-03 d-flex justify-content-center pb-0 pt-0">
                                     <div class="glassmorphic-card">
@@ -49,12 +49,12 @@ const Home = () => {
             <section className="home2">
                 <div className="container pt-5 pb-5 video-container">
                     <div className="row pt-5 pb-5 d-flex justify-content-space-between">
-                        <div className="col-lg-8 col-md-8  vid d-flex justify-content-center">
+                        <div className="col-sm-12 col-lg-8 col-md-8  vid d-flex justify-content-center">
                             <video id="video" width="550" height="400" muted loop autoPlay>
                                 <source src={sample} type="video/mp4" />
                             </video>
                         </div>
-                        <div className="col-lg-4 col-md-4 pt-">
+                        <div className="col-sm-12 col-lg-4 col-md-4 pt-">
                             <h2>WHAT IS CUBESAT?</h2>
                             <p>A CubeSat is a miniaturized spacecraft that orbits the earth.As the name suggests, CubeSat is shape like a cube of about 10 cm in length, breadth and depth. This is called one unit or 1U. It is very light weight, weighing not more than 1.33 kilograms.  Once in space, this can be used in a variety of applications.</p>
                         </div>
