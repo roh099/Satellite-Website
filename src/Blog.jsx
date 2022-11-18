@@ -1,23 +1,11 @@
 import React from "react"
 import logo from "../src/images/logo.png";
 
-const Research = () =>{
+const Blog = () =>{
   return (
     <>
-     <img src={logo} alt=""></img>
+    <h1>Blog page of Vyom</h1>
     </>
   );
 };
-export default Research;
-
-
-
-
-
-
-
-
-
-
-
-
+export default Blog;
