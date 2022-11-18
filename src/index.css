@@ -139,8 +139,8 @@ background: radial-gradient(circle, rgba(8,86,103,1) 0%, rgba(1,35,44,1) 82%); *
 
 /* background:radial-gradient(circle at 50% 50%, rgba(21, 133, 139, 1) 0%, rgba(4, 73, 82, 1) 50%, rgba(0, 40, 49, 1) 100%); */
 
-/* background:radial-gradient(circle at 50% 50%, rgba(12, 94, 99, 1) 0%, rgba(4, 73, 82, 1) 25%, rgba(0, 40, 49, 1) 100%); */
- background-color: #2579ff;
+background:radial-gradient(circle at 50% 50%, rgba(12, 94, 99, 1) 0%, rgba(4, 73, 82, 1) 25%, rgba(0, 40, 49, 1) 100%);
+
 }
 
 .home2 .container .row{
